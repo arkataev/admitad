@@ -1,0 +1,14 @@
+name: test-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - seaborn
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
